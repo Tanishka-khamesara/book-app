@@ -1,2 +1,2 @@
 # book-app
-hosted lonk=> https://tanishka-khamesara.github.io/book-app/
+hosted link=> https://tanishka-khamesara.github.io/book-app/
